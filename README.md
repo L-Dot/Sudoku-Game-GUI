@@ -1,5 +1,5 @@
 # Sudoku-Game-GUI
-An interactive sudoku game, solver and generator made using [pygame](https://github.com/pygame/pygame). Functions include:
+A simple interactive sudoku game, solver and generator made using [pygame](https://github.com/pygame/pygame). Functions include:
 - Interactive GUI with sudoku board, timer, mistake counter and an overview of all available controls
 - Sketch function that allows up to four temporary values in each tile
 - Tile selection control with arrow keys
