@@ -11,6 +11,7 @@ At the moment the average difficulty of newly generated sudokus is fixed at 100 
 
 ## Installation
 Clone the repository by running `git clone https://github.com/L-Dot/Sudoku-Game-GUI.git` or download the ZIP file and unzip.
+
 Install requirements with `pip install -r requirements` and run the game with `python sudoku_gui.py`.
 
 
